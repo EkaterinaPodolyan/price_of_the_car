@@ -33,3 +33,6 @@
 ## Библиотеки
 *pandas, numpy, datetime, sklearn, lightgbm*
 
+## Статус
+завершен
+
